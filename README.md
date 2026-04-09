@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=callHestia+->+Franciszek+Dawid;%3E+Bridging+Communication+with+Tech.;%3E+Journalist,+UX+Advocate,+Developer.;%3E+Crafting+stories.+Writing+code.;%3E+Leader+of+the+Gonsior+Crew.;%3E+Turning+ideas+into+real-world+projects.;%3E+OSINT+trained.+Cybersec+aware.;%3E+Climbing+mountains.+Fighting+on+the+mat.;%3E+Ready+for+the+next+challenge." alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=callHestia+->+Franciszek+Dawid;%3E+Bridging+Communication+with+Tech.;%3E+Journalist,+UX+Advocate,+Developer.;%3E+Crafting+stories.+Writing+code.;%3E+Founder+of+the+Gonsior+Crew.;%3E+Turning+ideas+into+real-world+projects.;%3E+OSINT+trained.+Cybersec+aware.;%3E+Tatry+Enjoyer.;%3E+Ready+for+the+next+challenge." alt="Typing Effect" />
 </p>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vuejs,svelte,cpp,linux,docker,git,figma&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=linux,cpp,html,css,tailwind,js,ts,react,vuejs,svelte,mysql,docker,git,figma&theme=dark" alt="Skill Icons" />
   </a>
 </p>
 
