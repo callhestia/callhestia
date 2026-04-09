@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=callHestia+->+Franciszek+Dawid;%3E+Bridging+Communication+with+Tech.;%3E+Journalist,+UX+Advocate,+Developer.;%3E+Crafting+stories.+Writing+code.;%3E+Leader+of+the+Gonsior+Crew.;%3E+Turning+ideas+into+real-world+projects.;%3E+OSINT+trained.+Cybersec+aware.;%3E+Climbing+mountains.+Fighting+on+the+mat.;%3E+Ready+for+the+next+challenge." alt="Typing Effect" />
 </p>
 
@@ -15,7 +15,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"> My Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vuejs,svelte,cpp,linux,docker,git,figma&theme=dark" alt="Skill Icons" />
   </a>
 </p>
@@ -27,31 +27,34 @@
 ### 🎓 Academic Background
 I am a student of **Digital Information Processing** at the prestigious **Jagiellonian University in Krakow**—founded in 1364, making it not only the oldest higher education institution in Poland but also one of the oldest in all of Europe. 
 
-At this very same university, I previously earned my **BA in Journalism and Social Communication**, graduating with the highest honors (Grade: 5.0). My bachelor's thesis, [**"Toxic communication in multiplayer games: a Polish player’s perspective"**](https://ruj.uj.edu.pl/handle/item/554267), was recommended for publication by both my supervisor and reviewer. Currently, I am bridging my expertise in social communication with technical engineering to create more conscious and human-centric technology.
+At this very same university, I previously earned my **BA in Journalism and Social Communication**, graduating with the highest honors (Grade: 5.0). My bachelor's thesis, <strong><a href="https://ruj.uj.edu.pl/handle/item/554267" target="_blank">"Toxic communication in multiplayer games: a Polish player’s perspective"</a></strong>, was recommended for publication by both my supervisor and reviewer. Currently, I am bridging my expertise in social communication with technical engineering to create more conscious and human-centric technology.
 
 ### 🚀 Experience & Leadership
 <img align="right" src="gonsior.png" alt="Gonsior Logo" width="140">
 
-**Founder & Leader** — *[Gonsior Organization](https://github.com/GonsiorHack)* (2026–Present)<br>
-Expanding an ambitious group of students joining forces to build real-world projects. Recently, we participated in **HackYeah 2025**, where we built [Reign of Abaddon](https://github.com/callhestia/Reign-of-Abaddon.git). My focus is bringing together young minds, competing in hackathons, and gaining hands-on industry experience.
+**Open Source Contributor** — <em><a href="https://github.com/tauri-apps" target="_blank">Tauri</a></em> & <em><a href="https://github.com/LadybirdBrowser" target="_blank">Ladybird Browser</a></em> (2026-Present)<br>
+Actively supporting the open-source community by improving documentation and resolving entry-level issues. My focus is on making these complex projects more accessible to newcomers while expanding my own technical understanding from the ground up.
 
-**Environmental Analyst** — *[EKKOM](https://ek-kom.pl/en/) & [Tondos](https://tondos.eu/)* (2024–2026)<br>
+**Founder & Leader** — <em><a href="https://github.com/GonsiorHack" target="_blank">Gonsior Organization</a></em> (2026–Present)<br>
+Expanding an ambitious group of students joining forces to build real-world projects. Recently, we participated in **HackYeah 2025**, where we built <a href="https://github.com/callhestia/Reign-of-Abaddon.git" target="_blank">Reign of Abaddon</a>. My focus is bringing together young minds, competing in hackathons, and gaining hands-on industry experience.
+
+**Environmental Analyst** — <em><a href="https://ek-kom.pl/en/" target="_blank">EKKOM</a></em> & <em><a href="https://tondos.eu/" target="_blank">Tondos</a></em> (2024–2026)<br>
 Conducted critical environmental measurements and data collection for the General Directorate for National Roads and Highways (GDDKiA), ensuring infrastructure compliance.
 
-**Digital Communications & UX Specialist** — *[RW Hunt](https://rwhunt.pl/)* (2023–2024)<br>
+**Digital Communications & UX Specialist** — <em><a href="https://rwhunt.pl/" target="_blank">RW Hunt</a></em> (2023–2024)<br>
 Managed the digital presence and online store UX for a specialized retail brand. Spearheaded content creation, product photography, and social media strategy, driving a **198% increase in organic reach** (29.3k views) with zero ad spend.
 
-**Radio Host & Journalist** — *[UJOT FM](https://ujot.fm/)* (2023–Present)<br>
-Hosting original broadcasts and Spotify podcasts covering social and cultural topics. Managing sound engineering, live reporting, and social media. Authored articles, including a notable piece on [Reinhold Messner](https://ujot.fm/reinhold-messner-czlowiek-wielu-twarzy-ale-jednej-mimiki-pierwsza-wizyta-w-polsce-po-10-latach/), and proudly represented the station on the pitch during the 2026 Student Media Football Match (UJOT FM vs UJOT TV).
+**Radio Host & Journalist** — <em><a href="https://ujot.fm/" target="_blank">UJOT FM</a></em> (2023–Present)<br>
+Hosting original broadcasts and Spotify podcasts covering social and cultural topics. Managing sound engineering, live reporting, and social media. Authored articles and conducted an exclusive interview with mountaineering legend <a href="https://ujot.fm/reinhold-messner-czlowiek-wielu-twarzy-ale-jednej-mimiki-pierwsza-wizyta-w-polsce-po-10-latach/" target="_blank">Reinhold Messner</a>. Proudly represented the station on the pitch during the 2026 Student Media Football Match (UJOT FM vs UJOT TV).
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="25"> Featured Projects
 
-**[🚗 Intelligent Fuel Ecosystem](https://github.com/callhestia/zawahe-mobile-app-design.git)**
+**<a href="https://github.com/callhestia/zawahe-mobile-app-design.git" target="_blank">🚗 Intelligent Fuel Ecosystem</a>**
 A comprehensive UI/UX concept for a mobile platform solving information asymmetry in the fuel market. Designed in Figma using Atomic Design methodology. It features a "One-Tap Update" for crowdsourced live prices, Route Efficiency mapping, and EV readiness. 
 
-**[🏥 Nursing Services](https://github.com/callhestia/strona-dzialalnosci-pielegniarskiej.git)**
+**<a href="https://github.com/callhestia/strona-dzialalnosci-pielegniarskiej.git" target="_blank">🏥 Nursing Services</a>**
 A professional, responsive medical SPA built with **SvelteKit (Svelte 5)**, **TypeScript**, and **Tailwind CSS**. Optimized for elderly users with High-Contrast UI, featuring a Formspree-integrated reservation system, smooth Intersection Observer animations, and Vercel deployment.
 
 ---
@@ -77,13 +80,14 @@ Intensive training on threat actors, motivations, and attack vectors against mod
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25"> Volunteering & Social Impact
 
-**Secretary & Former Volunteer Caregiver** — *[KTPSI "Mumunki"](https://www.facebook.com/ktpsimumunki/)*<br>
-KTPSI "Mumunki" supports individuals with disabilities through specialized camps and integration trips. I manage administrative operations and legal compliance, ensuring operational transparency. **Support us:** You can donate **1.5% of your tax** to help us organize future camps! Use **KRS: 0000270261** with specific goal: **MUMINKI 19764**.
+**Secretary & Former Volunteer Caregiver** — <em><a href="https://www.facebook.com/ktpsimumunki/" target="_blank">KTPSI "Mumunki"</a></em><br>
+KTPSI "Mumunki" supports individuals with disabilities through specialized camps and integration trips. I manage administrative operations and legal compliance, ensuring operational transparency. 
+<br> **Support us:** You can donate **1.5% of your tax** to help us organize future camps! Use **KRS: 0000270261** with specific goal: **MUMINKI 19764**.
 
-**Guest Speaker & Alumni Mentor** — *[ZSO Kluczbork](http://www.zsokluczbork.pl/web.n4?go=812)*<br>
-Presented a [lecture](https://canva.link/h8bw6cxp8y76vnk) for seniors on the evolution of journalism into **Media Working**, the endurance of modern media, the critical role of soft skills, and the media as the "Fourth Estate."
+**Guest Speaker & Alumni Mentor** — <em><a href="http://www.zsokluczbork.pl/web.n4?go=812" target="_blank">ZSO Kluczbork</a></em><br>
+Presented a <a href="https://canva.link/h8bw6cxp8y76vnk" target="_blank">lecture</a> for seniors on the evolution of journalism into **Media Working**, the endurance of modern media, the critical role of soft skills, and the media as the "Fourth Estate."
 
-**Co-organizer & Facilitator** — *["Stop Drugs" Prevention Campaign](https://sto.kluczbork.pl/ruszyla-17-edycja-kampanii-profilaktycznej-stop-narkotykom-w-kluczborku/)* (2019–2020)<br>
+**Co-organizer & Facilitator** — <em><a href="https://sto.kluczbork.pl/ruszyla-17-edycja-kampanii-profilaktycznej-stop-narkotykom-w-kluczborku/" target="_blank">"Stop Drugs" Prevention Campaign</a></em> (2019–2020)<br>
 Actively shaped a regional youth initiative in Kluczbork aimed at preventing addiction through social activation and assertiveness training. Co-organized creative workshops to help high schoolers develop healthy passions and communication skills.
 
 ---
@@ -97,9 +101,11 @@ When I step away from the keyboard, I stay active by training **MMA** and hiking
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25"> Let's connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/franciszek-dawid/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:dawidfranciszek914@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/GonsiorHack" target="blank"><img src="https://img.shields.io/badge/Gonsior_Hack-333?style=for-the-badge&logo=github&logoColor=39FF14" alt="Gonsior Github" /></a>
+<a href="https://www.linkedin.com/in/franciszek-dawid/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/franciszek.dawid" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="mailto:dawidfranciszek914@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /></a>
+<a href="https://orcid.org/0009-0003-3231-1807" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<a href="https://github.com/GonsiorHack" target="_blank"><img src="https://img.shields.io/badge/Gonsior_Hack-333?style=for-the-badge&logo=github&logoColor=39FF14" alt="Gonsior Github" /></a>
 </p>
 
 ---
