@@ -15,7 +15,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"> My Stack
 
 ### 🎯 Core Focus & Specialization
-*The technologies I actively build with and want to master:*
+*The technologies I want to master:*
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux,cpp,docker,git,nginx,bash&theme=dark" alt="Core Stack" />
