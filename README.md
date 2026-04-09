@@ -14,19 +14,19 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"> My Stack
 
-### 🎯 Core Focus & Specialization
-*The technologies I want to master:*
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25"> Core Focus & Specialization
+*Data analysis, OSINT automation, and database architecture:*
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,cpp,docker,git,nginx,bash&theme=dark" alt="Core Stack" />
+    <img src="https://skillicons.dev/icons?i=python,git,linux,bash,mongo,postgres,mysql&theme=dark" alt="Core Stack" />
   </a>
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25"> Familiar With / Broad Knowledge
-*Tools I know and can use when a project requires them, but aren't my primary path:*
+*Web tech and systems I use for building custom dashboards and data collection tools:*
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,jquery,vuejs,svelte,mysql,figma&theme=dark" alt="Familiar Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,docker,js,ts,jquery,svelte,vuejs,html,css,tailwind,figma&theme=dark" alt="Familiar Stack" />
   </a>
 </p>
 
