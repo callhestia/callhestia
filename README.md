@@ -14,9 +14,19 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"> My Stack
 
+### 🎯 Core Focus & Specialization
+*The technologies I actively build with and want to master:*
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,cpp,html,css,tailwind,js,ts,react,vuejs,svelte,mysql,docker,git,figma&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=linux,cpp,docker,git,nginx,bash&theme=dark" alt="Core Stack" />
+  </a>
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25"> Familiar With / Broad Knowledge
+*Tools I know and can use when a project requires them, but aren't my primary path:*
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,jquery,vuejs,svelte,mysql,figma&theme=dark" alt="Familiar Stack" />
   </a>
 </p>
 
