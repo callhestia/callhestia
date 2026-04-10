@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=callHestia+->+Franciszek+Dawid;%3E+Systems+Engineering+%26+DevSecOps.;%3E+Open+Source+Contributor.;%3E+Founder+of+the+Gonsior+Crew.;%3E+OSINT+trained.+Cybersec+aware.;%3E+Turning+ideas+into+infrastructure.;%3E+Ready+for+the+next+challenge." alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=700&height=100&lines=callHestia+->+Franciszek+Dawid;%3E+Systems+Engineering+%26+DevSecOps.;%3E+Open+Source+Contributor.;%3E+Founder+of+the+Gonsior+Crew.;%3E+OSINT+trained.+Cybersec+aware.;%3E+Turning+ideas+into+infrastructure.;%3E+Ready+for+the+next+challenge." alt="Typing Effect" />
 </p>
 
 <div align="center">
@@ -70,7 +70,3 @@ A responsive SPA built with **SvelteKit**, **TypeScript**, and **Tailwind CSS**.
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callhestia&theme=tokyonight" alt="GitHub Stats" />
-</div>
