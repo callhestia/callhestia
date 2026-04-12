@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=700&height=100&lines=callHestia+->+Franciszek+Dawid;%3E+Systems+Engineering+%26+DevSecOps.;%3E+Open+Source+Contributor.;%3E+Founder+of+the+Gonsior+Crew.;%3E+OSINT+trained.+Cybersec+aware.;%3E+Turning+ideas+into+infrastructure.;%3E+Ready+for+the+next+challenge." alt="Typing Effect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=700&height=100&lines=callHestia%20-%3E%20Franciszek%20Dawid;%3E%20Systems%20Engineering%20%26%20DevOps.;%3E%20Open%20Source%20Contributor.;%3E%20Founder%20of%20the%20Gonsior%20Crew.;%3E%20OSINT%20trained.%20Cybersec%20aware.;%3E%20Turning%20ideas%20into%20infrastructure.;%3E%20Ready%20for%20the%20next%20challenge.;%3E%20Preparing%20for%20Ko%C5%9Bciuszkon%202026.;%3E%20Just%20started%20mobile%20app%20project,%20results%20-%3E%20soon..." alt="Typing Effect" />
 </p>
 
 <div align="center">
