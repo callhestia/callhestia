@@ -18,7 +18,7 @@
 *Systems engineering, low-level performance, and secure deployments:*
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,cpp,docker,bash,nginx,git&theme=dark" alt="Core Stack" />
+    <img src="https://skillicons.dev/icons?i=linux,c,cpp,docker,bash,nginx,git&theme=dark" alt="Core Stack" />
   </a>
 </p>
 
