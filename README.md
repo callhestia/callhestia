@@ -23,7 +23,7 @@
   <p><i>Systems engineering, infrastructure, and secure deployments.</i></p>
   
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,python,cpp,docker,bash,nginx,git&theme=dark" alt="Core Stack" />
+    <img src="https://skillicons.dev/icons?i=linux,python,go,docker,bash,nginx,git&theme=dark" alt="Core Stack" />
   </a>
 
   <br/><br/>
@@ -33,7 +33,7 @@
   <p><i>Databases, scripting, and web tech I use for automation and custom tooling:</i></p>
   
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,ts,postgres,mysql,vuejs,svelte,html,css,tailwind,figma&theme=dark" alt="Familiar Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts,postgres,mysql,vuejs,svelte,html,css,tailwind,figma&theme=dark" alt="Familiar Stack" />
   </a>
 
 </div>
