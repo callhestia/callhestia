@@ -33,7 +33,7 @@
   <p><i>Databases, scripting, and web tech I use for automation and custom tooling:</i></p>
   
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts,postgres,mysql,vuejs,svelte,html,css,tailwind,figma&theme=dark" alt="Familiar Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts,mysql,vuejs,svelte,tailwind,figma&theme=dark" alt="Familiar Stack" />
   </a>
 
 </div>
@@ -73,7 +73,7 @@ A responsive SPA built with **SvelteKit**, **TypeScript**, and **Tailwind CSS**.
 <h2 align="center">🔗 Let's connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/franciszek-dawid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn" /></a>
-  <a href="mailto:dawidfranciszek914@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-f7768e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Mail" /></a>
-  <a href="https://github.com/GonsiorHack" target="_blank"><img src="https://img.shields.io/badge/Gonsior_Organization-bb9af7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="Gonsior Github" /></a>
+  <a href="https://www.linkedin.com/in/franciszek-dawid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:dawidfranciszek914@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-f7768e?style=for-the-badge&logo=gmail" alt="Mail" /></a>
+  <a href="https://github.com/GonsiorHack" target="_blank"><img src="https://img.shields.io/badge/My crew-bb9af7?style=for-the-badge&logo=github" alt="Gonsior Github" /></a>
 </p>
