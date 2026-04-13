@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  🇵🇱 Native | 🇬🇧 C1 | 🇫🇷 A2
+  🇵🇱 Native | 🇬🇧 C1 | 🇫🇷 A2 | 🇺🇦 A1
 </p>
 
 <br/>
@@ -75,5 +75,5 @@ A responsive SPA built with **SvelteKit**, **TypeScript**, and **Tailwind CSS**.
 <p align="center">
   <a href="https://www.linkedin.com/in/franciszek-dawid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn" /></a>
   <a href="mailto:dawidfranciszek914@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-f7768e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Mail" /></a>
-  <a href="https://github.com/GonsiorHack" target="_blank"><img src="https://img.shields.io/badge/Gonsior_Hack-bb9af7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="Gonsior Github" /></a>
+  <a href="https://github.com/GonsiorHack" target="_blank"><img src="https://img.shields.io/badge/Gonsior_Organization-bb9af7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="Gonsior Github" /></a>
 </p>
