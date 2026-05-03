@@ -53,7 +53,7 @@ Leading an ambitious tech collective. Recently participated in **HackYeah 2025**
 
 ---
 
-## 🛡️ Certifications & Training
+## Certifications & Training
 
 * **CS50: Introduction to Computer Science** — *Harvard University* | Comprehensive foundation in Python, SQL, C, memory management, and algorithmic thinking.
 * **OSINT (Open Source Intelligence)** — *zSecurity (Jan 2025)* | Practical techniques for advanced data gathering, digital footprint analysis, and data verification.
@@ -61,7 +61,7 @@ Leading an ambitious tech collective. Recently participated in **HackYeah 2025**
 
 ---
 
-## 🔗 Let's connect
+## Let's connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/franciszek-dawid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
