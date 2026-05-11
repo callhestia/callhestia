@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=700&height=100&lines=callHestia%20-%3E%20Aspiring%20Data%20Engineer;%3E%20Bridging%20Communication%20%26%20Data;%3E%20Learning%20ETL%20%26%20Pipelines;%3E%20Linux%20enthusiast%20(I%20don't%20use%20Arch%20btw);%3E%20Founder%20of%20the%20Gonsior%20Skein;%3E%20Preparing%20for%20Ko%C5%9Bciuszkon%202026;%3E%20Building%20my%20first%20databases...;%3E%20Why%20are%20you%20still%20reading%20this?" alt="Typing Effect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=700&height=100&lines=callHestia%20-%3E%20Future%20DevOps%20Engineer;%3E%20Bridging%20Communication%20%26%20Tech;%3E%20Linux%20enthusiast%20(Pop!_OS%2C%20not%20Arch%20btw);%3E%20Founder%20of%20the%20Gonsior%20Hackaton%20squad;%3E%20Preparing%20for%20HackYeah%202026;%3E%20Transitioning%20from%20Frontend...;%3E%20Why%20are%20you%20still%20reading%20this?" alt="Typing Effect" />
 </p>
 
 <p align="center">
@@ -30,16 +30,6 @@
   </a>
 </div>
 
----
-
-## 💻 About me & Experience
-
-🎓 **Digital Information Processing Student** at Jagiellonian University (previously BA in Journalism & Social Communication). I bridge my background in communication with **data engineering** as I learn to build efficient data pipelines, optimize databases, and translate complex technical architecture into actionable business value.
-
-⚡ **Founder & Leader** — *[Gonsior Organization](https://github.com/GonsiorHack)* (2025–Present)  
-Leading an ambitious tech collective. Recently participated in **HackYeah 2025**, building [Reign of Abaddon](https://github.com/callhestia/Reign-of-Abaddon).
-
-🔍 **Bachelor's Thesis & Research** — *Toxic Communication in Online Games* Conducted empirical research (surveys and focus groups) among Polish players to analyze digital interaction paradigms and systemic social behaviors in multiplayer environments. This experience in gathering and interpreting complex social data sparked my transition toward technical data architectures.
 
 ---
 
