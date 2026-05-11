@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Core_Focus_%26_Specialization-1a1b26?style=for-the-badge&logoColor=white&labelColor=7aa2f7" alt="Core Focus" />
   <p><i>Database architecture fundamentals, scripting, and containerization.</i></p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,linux,bash,docker,git&theme=dark" alt="Core Stack" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,linux,bash,docker,git&theme=dark" alt="Core Stack" />
   </a>
   
   <br/><br/>
