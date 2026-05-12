@@ -31,23 +31,42 @@
 </div>
 
 
----
-
 ## ⭐ Featured Projects
 
-**🚗 [Intelligent Fuel Ecosystem](https://github.com/callhestia/zawahe-mobile-app-design)** A UI/UX concept solving information asymmetry in the fuel market. Designed as a crowdsourced live-price data aggregator.
+---
 
-**🏥 [Nursing Services](https://github.com/callhestia/strona-dzialalnosci-pielegniarskiej)** A responsive SPA built with **SvelteKit** and **TypeScript**. Features an integrated reservation system handling external patient data flows.
+### ♟️ [En Passant](https://github.com/callhestia/en-passant)
+A gamified educational platform focused on **cybersecurity** through a narrative "story mode" lens. The project features 10 interactive chapters where players learn about phishing, malware, and password security by engaging in a dialogue system with a Chess King.
+* **Tech Stack:** Built with **SvelteKit 5**, utilizing native file-based routing to manage complex story branches.
+* **Key Feature:** Immersive chess-themed UI and logic-based progression systems.
+
+### ⛽ [ZaWahę](https://github.com/callhestia/zawahe-mobile-app-design)
+A comprehensive mobile ecosystem designed to eliminate information asymmetry in the fuel market via crowdsourcing. This project encompasses the entire product lifecycle—from market research and **brand identity** to a high-fidelity prototype built from scratch in **Figma**.
+* **Design & Strategy:** Full visual language and brand building aimed at long-term user retention.
+* **Innovation:** Features a "One-Tap Update" mechanism, geofencing-based **Smart Reporting**, and a **Social Billing** module for splitting travel costs.
+* **Status:** High-fidelity prototype fully prepared for production-level development.
+
+### 🏥 [Nursing Services](https://github.com/callhestia/strona-dzialalnosci-pielegniarskiej)
+A professional-grade Single Page Application (SPA) tailored for the healthcare sector. Developed with a focus on performance and data integrity to bridge the gap between medical providers and patients.
+* **Architecture:** Built using **SvelteKit** and **TypeScript** for robust type safety.
+* **Functionality:** Includes an integrated reservation engine designed to handle external patient data flows securely.
+* **Compliance:** Fully responsive design adhering to accessibility standards (WCAG) and secure data handling protocols.
 
 *(🚧 Currently working on some cool projects, coming soon!)*
 
 ---
 
+## 🌐 Open Source Contributions
+
+* **[Ladybird Browser](https://github.com/LadybirdBrowser/ladybird)** — Active contributor to this truly independent, standards-based web engine. My work focuses on enhancing **technical documentation** and providing entry-level assistance to streamline the developer onboarding process.
+---
+
 ## Certifications & Training
 
-* **CS50: Introduction to Computer Science** — *Harvard University* | Comprehensive foundation in Python, SQL, C, memory management, and algorithmic thinking.
-* **OSINT (Open Source Intelligence)** — *zSecurity (Jan 2025)* | Practical techniques for advanced data gathering, digital footprint analysis, and data verification.
-* **Cybersecurity Basics** — *Jagiellonian University (Oct 2022)* | Threat actors and attack vectors against modern IT systems.
+* **CS50: Introduction to Computer Science** — *Harvard University* | Foundation in Python, SQL, C, and algorithmic thinking.
+* **CSX Cybersecurity Fundamentals (CSXF)** — *ISACA* | Core principles of network security and incident response.
+* **Certified OSINT Professional** — *zSecurity* | Advanced data gathering and digital footprint analysis.
+* **Prompt Engineering** — Specialist training in LLM optimization and technical communication.
 
 ---
 
