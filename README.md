@@ -35,7 +35,7 @@
 
 ---
 
-### ♟️ [En Passant](https://github.com/callhestia/en-passant)
+### ♟️ [En Passant](https://github.com/GonsiorHack/tadeusz-kosciuszko-2026.git)
 A gamified educational platform focused on **cybersecurity** through a narrative "story mode" lens. The project features 10 interactive chapters where players learn about phishing, malware, and password security by engaging in a dialogue system with a Chess King.
 * **Tech Stack:** Built with **SvelteKit 5**, utilizing native file-based routing to manage complex story branches.
 * **Key Feature:** Immersive chess-themed UI and logic-based progression systems.
