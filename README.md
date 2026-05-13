@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=700&height=100&lines=callHestia%20-%3E%20Future%20DevOps%20Engineer;%3E%20Bridging%20Communication%20%26%20Tech;%3E%20Linux%20enthusiast%20(Pop!_OS%2C%20not%20Arch%20btw);%3E%20Founder%20of%20the%20Gonsior%20Hackaton%20squad;%3E%20Preparing%20for%20HackYeah%202026;%3E%20Transitioning%20from%20Frontend...;%3E%20Why%20are%20you%20still%20reading%20this?" alt="Typing Effect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=700&height=100&lines=callHestia%20-%3E%20Future%20DevOps%20Engineer;%3E%20Bridging%20Communication%20%26%20Tech;%3E%20Linux%20enthusiast%20(not%20Arch%20btw);%3E%20Founder%20of%20the%20Gonsior%20Hackaton%20squad;%3E%20Preparing%20for%20HackYeah%202026;%3E%20Transitioning%20from%20Frontend...;%3E%20Why%20are%20you%20still%20reading%20this?" alt="Typing Effect" />
 </p>
 
 <p align="center">
@@ -52,21 +52,12 @@ A professional-grade Single Page Application (SPA) tailored for the healthcare s
 * **Functionality:** Includes an integrated reservation engine designed to handle external patient data flows securely.
 * **Compliance:** Fully responsive design adhering to accessibility standards (WCAG) and secure data handling protocols.
 
-*(🚧 Currently working on some cool projects, coming soon!)*
+*(🚧 Currently working on some cool Backend projects, coming soon!)*
 
 ---
-
 ## 🌐 Open Source Contributions
 
 * **[Ladybird Browser](https://github.com/LadybirdBrowser/ladybird)** — Active contributor to this truly independent, standards-based web engine. My work focuses on enhancing **technical documentation** and providing entry-level assistance to streamline the developer onboarding process.
----
-
-## Certifications & Training
-
-* **CS50: Introduction to Computer Science** — *Harvard University* | Foundation in Python, SQL, C, and algorithmic thinking.
-* **CSX Cybersecurity Fundamentals (CSXF)** — *ISACA* | Core principles of network security and incident response.
-* **Certified OSINT Professional** — *zSecurity* | Advanced data gathering and digital footprint analysis.
-* **Prompt Engineering** — Specialist training in LLM optimization and technical communication.
 
 ---
 
