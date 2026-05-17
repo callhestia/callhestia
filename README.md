@@ -34,6 +34,10 @@
 ## ⭐ Featured Projects
 
 ---
+### 🧠 [Retinere](https://github.com/callhestia/retinere)
+A blazing-fast, terminal-based flashcard application utilizing spaced repetition, designed entirely for the command line. Developed as a practical dive into system-level programming and native Linux execution.
+* **My Role (Engine Developer):** Engineered the core backend logic, including the implementation of the **SM-2 algorithm** for review scheduling and the **Levenshtein distance** algorithm for typo-tolerant input evaluation.
+* **Tech Stack:** Pure **C++17** and **CMake** with zero external dependencies. Focused on extreme performance (<100ms startup) and clean architecture.
 
 ### ♟️ [En Passant](https://github.com/GonsiorHack/tadeusz-kosciuszko-2026.git)
 A gamified educational platform focused on **cybersecurity** through a narrative "story mode" lens. The project features 10 interactive chapters where players learn about phishing, malware, and password security by engaging in a dialogue system with a Chess King.
