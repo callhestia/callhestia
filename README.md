@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=700&height=100&lines=callHestia%20-%3E%20Future%20DevOps%20Engineer;%3E%20Bridging%20Communication%20%26%20Tech;%3E%20Linux%20enthusiast%20(not%20Arch%20btw);%3E%20Founder%20of%20the%20Gonsior%20Hackaton%20squad;%3E%20Preparing%20for%20HackYeah%202026;%3E%20Transitioning%20from%20Frontend...;%3E%20Why%20are%20you%20still%20reading%20this?" alt="Typing Effect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=700&height=100&lines=sh3kda%20-%3E%20Future%20DevOps%20Engineer;%3E%20Bridging%20Communication%20%26%20Tech;%3E%20Linux%20enthusiast%20(not%20Arch%20btw);%3E%20Founder%20of%20the%20Gonsior%20Hackaton%20squad;%3E%20Preparing%20for%20HackYeah%202026;%3E%20Transitioning%20from%20Frontend...;%3E%20Why%20are%20you%20still%20reading%20this?" alt="Typing Effect" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=callhestia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh3kda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 ## ⭐ Featured Projects
 
 ---
-### 🧠 [Retinere](https://github.com/callhestia/retinere)
+### 🧠 [Retinere](https://github.com/sh3kda/retinere)
 A blazing-fast, terminal-based flashcard application utilizing spaced repetition, designed entirely for the command line. Developed as a practical dive into system-level programming and native Linux execution.
 * **My Role (Engine Developer):** Engineered the core backend logic, including the implementation of the **SM-2 algorithm** for review scheduling and the **Levenshtein distance** algorithm for typo-tolerant input evaluation.
 * **Tech Stack:** Pure **C++17** and **CMake** with zero external dependencies. Focused on extreme performance (<100ms startup) and clean architecture.
@@ -44,13 +44,13 @@ A gamified educational platform focused on **cybersecurity** through a narrative
 * **Tech Stack:** Built with **SvelteKit 5**, utilizing native file-based routing to manage complex story branches.
 * **Key Feature:** Immersive chess-themed UI and logic-based progression systems.
 
-### ⛽ [ZaWahę](https://github.com/callhestia/zawahe-mobile-app-design)
+### ⛽ [ZaWahę](https://github.com/sh3kda/zawahe-mobile-app-design)
 A comprehensive mobile ecosystem designed to eliminate information asymmetry in the fuel market via crowdsourcing. This project encompasses the entire product lifecycle—from market research and **brand identity** to a high-fidelity prototype built from scratch in **Figma**.
 * **Design & Strategy:** Full visual language and brand building aimed at long-term user retention.
 * **Innovation:** Features a "One-Tap Update" mechanism, geofencing-based **Smart Reporting**, and a **Social Billing** module for splitting travel costs.
 * **Status:** High-fidelity prototype fully prepared for production-level development.
 
-### 🏥 [Nursing Services](https://github.com/callhestia/strona-dzialalnosci-pielegniarskiej)
+### 🏥 [Nursing Services](https://github.com/sh3kda/strona-dzialalnosci-pielegniarskiej)
 A professional-grade Single Page Application (SPA) tailored for the healthcare sector. Developed with a focus on performance and data integrity to bridge the gap between medical providers and patients.
 * **Architecture:** Built using **SvelteKit** and **TypeScript** for robust type safety.
 * **Functionality:** Includes an integrated reservation engine designed to handle external patient data flows securely.
