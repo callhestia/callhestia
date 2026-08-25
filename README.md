@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh3kda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   🇵🇱 Native | 🇬🇧 C1 | 🇫🇷 A2 | 🇺🇦 A1
 </p>
 
